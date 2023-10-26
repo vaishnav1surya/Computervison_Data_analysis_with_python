@@ -1,4 +1,4 @@
-# ML_analysis_with_python
+# Data_analysis_with_python
 
 Diagnosis of Canine Skin Diseases
 
